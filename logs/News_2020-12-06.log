@@ -1,0 +1,962 @@
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:09:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:11:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:11:29] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:11:29] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:11:29] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:11:30] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:11:30] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:11:30] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:11:30] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:11:30] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:11:31] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:11:32] "[37mGET /static/news/images/pic_code.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:11:33] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:11:33] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:12:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:13:12] "[37mGET /user/image_code?cur_id=4af1df1e-e190-4136-a3e7-fb36f177d683&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:13:12] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO csrf.py:258 The CSRF token is missing.
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:13:30] "[31m[1mPOST /user/sms_code HTTP/1.1[0m" 400 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/__init__.py', reloading
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:14:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:14:57] "[37mGET /user/image_code?cur_id=4f3b4b8a-1bc2-4408-9092-a1802975ea89&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:15:11] "[37mGET /user/image_code?cur_id=9dd75f90-a8b0-459c-bc9f-f707cf490bff&pre_id=4f3b4b8a-1bc2-4408-9092-a1802975ea89 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:15:13] "[37mGET /user/image_code?cur_id=4cef675f-6eaf-4095-8a4e-8f5ab3c3f00e&pre_id=9dd75f90-a8b0-459c-bc9f-f707cf490bff HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:15:14] "[37mGET /user/image_code?cur_id=e240743c-da2f-4eba-8856-ee8f32fc5d52&pre_id=4cef675f-6eaf-4095-8a4e-8f5ab3c3f00e HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:15:25] "[35m[1mPOST /user/sms_code HTTP/1.1[0m" 500 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:16:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:16:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:16:48] "[37mGET /user/image_code?cur_id=d41be8ec-bf1f-4205-a83e-010b5e7b757f&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:16:56] "[37mGET /user/image_code?cur_id=c87fdbab-e149-4717-aa75-ca079d72f72a&pre_id=d41be8ec-bf1f-4205-a83e-010b5e7b757f HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:17:06] "[35m[1mPOST /user/sms_code HTTP/1.1[0m" 500 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:17:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:17:38] "[37mGET /user/image_code?cur_id=88ccc5c5-52e9-4d3e-96b5-dc2fc47f98db&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:17:46] "[37mGET /user/image_code?cur_id=1b001da7-48db-43f7-9d83-0298ddfde0b7&pre_id=88ccc5c5-52e9-4d3e-96b5-dc2fc47f98db HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:17:47] "[37mGET /user/image_code?cur_id=8ae1201c-81dd-47ed-adac-347c4812f3af&pre_id=1b001da7-48db-43f7-9d83-0298ddfde0b7 HTTP/1.1[0m" 200 -
+DEBUG views.py:74 短信验证码是 = 283240
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:17:56] "[35m[1mPOST /user/sms_code HTTP/1.1[0m" 500 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:18:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:18:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:18:43] "[37mGET /user/image_code?cur_id=41232701-4c0a-4857-9e96-eb165ba83218&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:18:48] "[37mGET /user/image_code?cur_id=b0e0212a-7976-4de0-9748-56651a1dcd0a&pre_id=41232701-4c0a-4857-9e96-eb165ba83218 HTTP/1.1[0m" 200 -
+DEBUG views.py:74 短信验证码是 = 923078
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:18:59] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:19:59] "[37mGET /user/image_code?cur_id=ee1809f2-e754-4580-9173-d85a47645a2d&pre_id=b0e0212a-7976-4de0-9748-56651a1dcd0a HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:20:01] "[37mGET /user/image_code?cur_id=ac12133a-776e-4380-a0f5-f4279da673e9&pre_id=ee1809f2-e754-4580-9173-d85a47645a2d HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:20:02] "[37mGET /user/image_code?cur_id=b51a2a2c-309c-4d8a-8df8-b4e6e3fe20b6&pre_id=ac12133a-776e-4380-a0f5-f4279da673e9 HTTP/1.1[0m" 200 -
+DEBUG views.py:74 短信验证码是 = 096878
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:20:13] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:26:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:26:24] "[37mGET /user/image_code?cur_id=5ee11cb9-2730-479b-b722-0e437b7a74e0&pre_id= HTTP/1.1[0m" 200 -
+DEBUG views.py:75 短信验证码是 = 150758
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:27:04] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:30:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:30:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:30:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:32:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:32:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:33:07] "[37mGET /user/image_code?cur_id=ffdffe8c-6711-48fd-9f7e-af36b4b70166&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:33:16] "[37mGET /user/image_code?cur_id=1e85de67-5f84-4046-bc07-7f7859e2d5df&pre_id=ffdffe8c-6711-48fd-9f7e-af36b4b70166 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:33:17] "[37mGET /user/image_code?cur_id=2ce958fb-aabb-4ab5-8f60-ddb61d806385&pre_id=1e85de67-5f84-4046-bc07-7f7859e2d5df HTTP/1.1[0m" 200 -
+DEBUG views.py:75 短信验证码是 = 302557
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:33:46] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:34:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:34:10] "[37mGET /user/image_code?cur_id=0cfe0238-c04c-4142-96d6-16458dca4dcb&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:34:22] "[37mGET /user/image_code?cur_id=1f13e2b8-bcee-4a78-bf71-75c6183c94b5&pre_id=0cfe0238-c04c-4142-96d6-16458dca4dcb HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:34:23] "[37mGET /user/image_code?cur_id=ad2a4a9f-5930-46fa-b314-7db5b9b02ce3&pre_id=1f13e2b8-bcee-4a78-bf71-75c6183c94b5 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:34:24] "[37mGET /user/image_code?cur_id=a1b97b7e-404b-4f76-b242-014649a8131b&pre_id=ad2a4a9f-5930-46fa-b314-7db5b9b02ce3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:34:26] "[37mGET /user/image_code?cur_id=6aab1794-4958-4a50-95bc-f69b2ef22388&pre_id=a1b97b7e-404b-4f76-b242-014649a8131b HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:34:27] "[37mGET /user/image_code?cur_id=28c3dfc8-125b-4e98-b222-ee3f2e04737f&pre_id=6aab1794-4958-4a50-95bc-f69b2ef22388 HTTP/1.1[0m" 200 -
+DEBUG views.py:75 短信验证码是 = 820364
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:34:34] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:34:53] "[37mGET /user/image_code?cur_id=4f418db0-042c-494f-a5db-1b48176751b2&pre_id=28c3dfc8-125b-4e98-b222-ee3f2e04737f HTTP/1.1[0m" 200 -
+DEBUG views.py:75 短信验证码是 = 652315
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:36:46] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:37:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:37:13] "[37mGET /user/image_code?cur_id=81620c28-1e20-4bb9-a251-e8045daae170&pre_id= HTTP/1.1[0m" 200 -
+DEBUG views.py:75 短信验证码是 = 340507
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 00:37:52] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:21:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:21:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:21:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:21:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:21:44] "[37mGET /user/image_code?cur_id=9c769f3e-de3f-47e7-9635-0ff384c3b841&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:21:56] "[37mGET /user/image_code?cur_id=3a9d7175-54f8-49ba-8303-0da6d55a6cdc&pre_id=9c769f3e-de3f-47e7-9635-0ff384c3b841 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:21:57] "[37mGET /user/image_code?cur_id=a7af884d-2901-4a22-9b75-3a690074edf3&pre_id=3a9d7175-54f8-49ba-8303-0da6d55a6cdc HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:21:59] "[37mGET /user/image_code?cur_id=96fdf2e2-2a47-4fd5-9fc1-5845a63cbd8f&pre_id=a7af884d-2901-4a22-9b75-3a690074edf3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:22:01] "[37mGET /user/image_code?cur_id=a1a3814e-a443-433d-87fb-2c9f6a8080b2&pre_id=96fdf2e2-2a47-4fd5-9fc1-5845a63cbd8f HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:22:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:22:46] "[37mGET /user/image_code?cur_id=834bf095-e80b-4604-8ed3-b0af91902881&pre_id= HTTP/1.1[0m" 200 -
+DEBUG views.py:128 短信验证码是 = 979958
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:23:07] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:24:18] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:24:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:24:58] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:24:58] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:24:58] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:24:58] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:24:58] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:24:58] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:24:58] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:24:58] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:24:58] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:24:58] "[37mGET /static/news/images/pic_code.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:24:58] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:24:58] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:25:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:25:43] "[37mGET /user/image_code?cur_id=22a1ebd5-265e-4eb4-895c-f8e153f8b4d8&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:25:43] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+DEBUG views.py:128 短信验证码是 = 753618
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:26:02] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:26:33] "[37mPOST /user/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:26:33] "[37mPOST /user/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:26:33] "[37mPOST /user/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:26:33] "[37mPOST /user/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:26:33] "[37mPOST /user/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:26:33] "[37mPOST /user/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:26:33] "[37mPOST /user/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:26:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:28:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:28:19] "[37mGET /user/image_code?cur_id=2de04c52-6508-477c-8388-33e8b5f73a55&pre_id= HTTP/1.1[0m" 200 -
+DEBUG views.py:129 短信验证码是 = 801282
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:28:36] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+ERROR views.py:72 (pymysql.err.IntegrityError) (1062, "Duplicate entry '13367517655' for key 'mobile'")
+[SQL: INSERT INTO info_user (create_time, update_time, nick_name, password_hash, mobile, avatar_url, last_login, is_admin, signature, gender) VALUES (%(create_time)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(avatar_url)s, %(last_login)s, %(is_admin)s, %(signature)s, %(gender)s)]
+[parameters: {'create_time': datetime.datetime(2020, 12, 6, 1, 28, 48, 836044), 'update_time': datetime.datetime(2020, 12, 6, 1, 28, 48, 836049), 'nick_name': '13367517655', 'password_hash': 'pbkdf2:sha256:150000$0IcJtEDB$c27ecf97ef827817f8a793ea80d770fe0827579cd6dcaa944e3fad58aec40f44', 'mobile': '13367517655', 'avatar_url': None, 'last_login': datetime.datetime(2020, 12, 6, 1, 28, 48, 836051), 'is_admin': 0, 'signature': '该用户很懒,什么都没写', 'gender': 'MAN'}]
+(Background on this error at: http://sqlalche.me/e/13/gkpj)
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:28:48] "[37mPOST /user/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:29:39] "[37mPOST /user/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:29:49] "[37mGET /user/image_code?cur_id=d43e1fd1-6991-413d-abf1-a6c6192dbbf8&pre_id=2de04c52-6508-477c-8388-33e8b5f73a55 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:30:01] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:30:04] "[37mGET /user/image_code?cur_id=6a80a829-7688-4c4c-8fa4-e58bdbcc1e18&pre_id= HTTP/1.1[0m" 200 -
+DEBUG views.py:129 短信验证码是 = 662972
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:30:17] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+ERROR views.py:72 (pymysql.err.IntegrityError) (1062, "Duplicate entry '13367517655' for key 'mobile'")
+[SQL: INSERT INTO info_user (create_time, update_time, nick_name, password_hash, mobile, avatar_url, last_login, is_admin, signature, gender) VALUES (%(create_time)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(avatar_url)s, %(last_login)s, %(is_admin)s, %(signature)s, %(gender)s)]
+[parameters: {'create_time': datetime.datetime(2020, 12, 6, 1, 30, 29, 774011), 'update_time': datetime.datetime(2020, 12, 6, 1, 30, 29, 774017), 'nick_name': '13367517655', 'password_hash': 'pbkdf2:sha256:150000$X2zTEFhi$3cf8b5022c71b5b49a233ed4c5b46a22251b63ea5e6255a67ec5145b3786f386', 'mobile': '13367517655', 'avatar_url': None, 'last_login': datetime.datetime(2020, 12, 6, 1, 30, 29, 774019), 'is_admin': 0, 'signature': '该用户很懒,什么都没写', 'gender': 'MAN'}]
+(Background on this error at: http://sqlalche.me/e/13/gkpj)
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:30:29] "[37mPOST /user/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:33:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:33:50] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:33:52] "[37mGET /user/image_code?cur_id=89ec276c-79c2-442a-87a8-9b850463d5bc&pre_id= HTTP/1.1[0m" 200 -
+DEBUG views.py:130 短信验证码是 = 858620
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:34:05] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+ERROR views.py:72 (pymysql.err.IntegrityError) (1062, "Duplicate entry '13367517655' for key 'mobile'")
+[SQL: INSERT INTO info_user (create_time, update_time, nick_name, password_hash, mobile, avatar_url, last_login, is_admin, signature, gender) VALUES (%(create_time)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(avatar_url)s, %(last_login)s, %(is_admin)s, %(signature)s, %(gender)s)]
+[parameters: {'create_time': datetime.datetime(2020, 12, 6, 1, 34, 16, 797453), 'update_time': datetime.datetime(2020, 12, 6, 1, 34, 16, 797458), 'nick_name': '13367517655', 'password_hash': 'pbkdf2:sha256:150000$SqNmhJSN$18655f3fdfa5c078576838fb8186feade8bd4f4d71341c267db41088aa1dd055', 'mobile': '13367517655', 'avatar_url': None, 'last_login': datetime.datetime(2020, 12, 6, 1, 34, 16, 797460), 'is_admin': 0, 'signature': '该用户很懒,什么都没写', 'gender': 'MAN'}]
+(Background on this error at: http://sqlalche.me/e/13/gkpj)
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:34:16] "[37mPOST /user/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:39:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:39:15] "[37mGET /user/image_code?cur_id=8def92cb-e4b7-4e4d-86fe-304b6ea9f9d4&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:39:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:39:27] "[37mGET /user/image_code?cur_id=2bf702c9-580c-4786-879a-3e30c98f817e&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:39:38] "[37mGET /user/image_code?cur_id=aa633172-8e5e-4b88-bc47-62fa2b1979e0&pre_id=2bf702c9-580c-4786-879a-3e30c98f817e HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:39:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:39:49] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:39:50] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:39:50] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:39:50] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:39:51] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:39:52] "[37mGET /user/image_code?cur_id=eeb16623-345e-40e7-9486-519ab48695f6&pre_id= HTTP/1.1[0m" 200 -
+DEBUG views.py:130 短信验证码是 = 552135
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:40:09] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:40:21] "[37mPOST /user/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:40:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:44:08] "[37mGET /user/image_code?cur_id=20e89324-8bac-45d7-a16a-a439006ef990&pre_id= HTTP/1.1[0m" 200 -
+DEBUG views.py:130 短信验证码是 = 584286
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:44:24] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:44:36] "[37mPOST /user/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:44:51] "[37mGET /user/image_code?cur_id=eaeff006-5a44-4653-a115-f9b3622a5271&pre_id=20e89324-8bac-45d7-a16a-a439006ef990 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:44:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:44:56] "[37mGET /user/image_code?cur_id=925134bd-7baf-4a82-8c6c-c43549695e6b&pre_id= HTTP/1.1[0m" 200 -
+DEBUG views.py:130 短信验证码是 = 770439
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:45:12] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 01:45:23] "[37mPOST /user/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 839-285-650
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:31:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:31:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:31:18] "[37mGET /user/image_code?cur_id=fec6f2c6-98bf-4c1f-b019-4c1315bc8c0a&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:31:37] "[35m[1mPOST /user/login HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:31:38] "[35m[1mPOST /user/login HTTP/1.1[0m" 500 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 839-285-650
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:32:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:32:20] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:32:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:32:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:33:16] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:33:16] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:33:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:33:32] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:33:42] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:33:53] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:34:00] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:34:10] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:34:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 839-285-650
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 839-285-650
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 839-285-650
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 839-285-650
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:41:32] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:41:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:41:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:42:01] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:42:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:42:58] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:42:58] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:42:58] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:42:58] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:42:58] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:42:58] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:42:58] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:42:58] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:42:58] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:42:58] "[37mGET /static/news/images/pic_code.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:42:58] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:42:58] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:43:06] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:43:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:43:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:43:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:43:33] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:43:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:43:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:44:14] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:44:14] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:44:25] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:44:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:44:27] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:44:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:44:27] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:44:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:44:28] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:44:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:44:29] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:44:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:44:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:44:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:45:34] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:45:34] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:45:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:45:35] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:45:35] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:45:35] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:45:35] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:45:35] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:45:35] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:45:35] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:45:35] "[37mGET /static/news/images/pic_code.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:45:35] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:45:35] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:48:02] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:48:03] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:48:04] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:48:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:48:04] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:48:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:48:04] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:48:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:48:04] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:48:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:48:05] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:48:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:48:10] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:48:14] "[37mGET /user/image_code?cur_id=de8a17f9-9d7f-4e40-b9c3-1679d8d36d95&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 839-285-650
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 839-285-650
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 839-285-650
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:57:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:57:50] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:57:50] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:57:50] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:57:51] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:57:51] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:57:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:57:56] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:57:56] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:57:56] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:57:57] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:57:57] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:59:41] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:59:41] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:59:41] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:59:41] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:59:41] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 02:59:41] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 839-285-650
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:00:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:00:00] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:00:00] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:00:00] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:00:00] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:00:00] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 839-285-650
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:00:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:00:55] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:00:55] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:00:55] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:00:56] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:00:56] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 839-285-650
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:46] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:46] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:46] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:46] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:46] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:47] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:47] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:47] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:47] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:48] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:48] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:48] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:48] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:48] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:49] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:49] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:51] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:51] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:51] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:51] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:51] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:01:51] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:03:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:03:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:03:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:03:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:03:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:03:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:03:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:03:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:03:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:03:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:04:52] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:04:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:04:52] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:04:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:04:53] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:04:53] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:22] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:23] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:24] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:24] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:24] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:24] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:25] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:45] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:46] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:46] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:46] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:46] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:46] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:47] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:05:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 839-285-650
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:07:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:07:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:07:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 839-285-650
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:09:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:09:52] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:09:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:09:53] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:09:53] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:09:54] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:09:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 839-285-650
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:10:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:10:51] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:11:00] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:11:01] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 839-285-650
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:11:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:11:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:11:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:11:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:11:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:11:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:11:32] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:11:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:11:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:11:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:11:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:11:49] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:11:49] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:12:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:12:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:12:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:12:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:12:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:12:12] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:12:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:12:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 03:12:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:04:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:04:14] "[36mGET /static/news/css/reset.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:04:14] "[36mGET /static/news/css/main.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:04:14] "[36mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:04:14] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:04:14] "[36mGET /static/news/js/index.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:04:14] "[36mGET /static/news/images/logo.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:04:14] "[36mGET /static/news/images/person01.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:04:20] "[36mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:04:20] "[36mGET /static/news/images/person.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:04:20] "[36mGET /static/news/images/pic_code.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:04:20] "[36mGET /static/news/images/clock.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:04:20] "[36mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:06:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:06:47] "[36mGET /static/news/css/reset.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:06:47] "[36mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:06:47] "[36mGET /static/news/images/logo.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:06:47] "[36mGET /static/news/css/main.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:06:47] "[36mGET /static/news/js/index.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:06:47] "[36mGET /static/news/js/main.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:06:47] "[36mGET /static/news/images/person01.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:06:47] "[36mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:06:47] "[36mGET /static/news/images/pic_code.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:06:47] "[36mGET /static/news/images/person.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:06:50] "[36mGET /static/news/images/clock.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:06:50] "[36mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:06:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:07:24] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:07:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:07:25] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:07:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:07:26] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:07:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:07:26] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:07:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:07:26] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:07:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:07:26] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:07:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:07:27] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:07:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:07:27] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:07:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:08:22] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:08:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:08:22] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:08:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:08:23] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:08:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:09:03] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:09:03] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:09:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:09:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:09:07] "[36mGET /static/news/images/shutoff.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:09:17] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:09:17] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:09:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:09:30] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:09:31] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:09:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:11:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:13:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:13:04] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:13:04] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:13:04] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:13:04] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:13:04] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:16:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:16:55] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:16:55] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:16:55] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:16:56] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:16:56] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:16:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:16:56] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:16:56] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:16:56] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:16:56] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:16:56] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:17:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:17:00] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:17:00] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:17:00] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:17:00] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:17:00] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:17:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:17:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:17:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:17:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:17:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:17:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:17:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:18:00] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:18:00] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:18:01] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:18:01] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:18:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:18:45] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:18:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:25:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:25:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:25:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:28:21] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:28:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:28:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:28:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:28:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:28:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:28:24] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:28:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:28:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:28:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:28:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:28:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:28:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:05] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:06] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:06] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:09] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:09] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:10] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:10] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:10] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:10] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:10] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:30:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:38:57] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:38:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:38:59] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:39:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:39:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:39:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:39:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:39:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:39:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:39:55] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:39:55] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:07] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:08] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:08] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:08] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:08] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:09] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:32] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:37] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:50] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:50] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:51] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:51] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:53] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:40:55] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:41:06] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:41:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:44:04] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:44:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:44:20] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:44:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:44:22] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:44:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:44:24] "[37mGET /user/image_code?cur_id=0d1b044c-f61d-4687-aed7-b551fbf85936&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:44:52] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:45:01] "[37mGET /user/image_code?cur_id=cf7daa80-8be0-4bb9-aaa1-b1c3636767b1&pre_id=0d1b044c-f61d-4687-aed7-b551fbf85936 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:45:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:45:06] "[37mGET /user/image_code?cur_id=152de8f4-b69d-48e2-a227-e76a02876f40&pre_id= HTTP/1.1[0m" 200 -
+DEBUG views.py:150 短信验证码是 = 364671
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:45:25] "[37mPOST /user/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:45:37] "[37mPOST /user/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:45:37] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:45:54] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:45:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:45:58] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:45:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:46:13] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:46:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:52:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:52:08] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:52:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:52:20] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:52:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:53:33] "[37mPOST /user/logout HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:53:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:53:45] "[37mPOST /user/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:53:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 22:54:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/config/config.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/config/config.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/login/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:07:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:07:50] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:07:50] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:07:50] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:07:51] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:07:52] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:07:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:07:59] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:07:59] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:07:59] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:07:59] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:07:59] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:08:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:08:03] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:08:03] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:08:03] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:08:03] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:08:03] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:09:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:09:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:26:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:31:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:31:26] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:31:26] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:31:26] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:31:27] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:31:27] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:31:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:43:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:43:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:43:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 672-071-681
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:59:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:59:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:59:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:59:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:59:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [06/Dec/2020 23:59:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [07/Dec/2020 00:00:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/home/moluo/Desktop/NBNews/news/index/views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
