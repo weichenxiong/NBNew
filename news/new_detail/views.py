@@ -79,7 +79,7 @@ def news_comment():
     news_id  = request.json.get("news_id")
     content  = request.json.get("comment")
     parent_id  = request.json.get("parent_id")
-    print(news_id, content)
+    # print(news_id, content)
     if not all([news_id,content]):
         return jsonify(errno=Code.PARAMERR,errmsg="参数不全")
     
@@ -106,5 +106,4 @@ def news_comment():
     except Exception as e:
         current_app.logger.error(e)
         return jsonify(errno=Code.DBERR,errmsg="评论失败")
-    print() 
     return jsonify(errno=Code.OK,errmsg="评论成功",data=comment.to_dict())
