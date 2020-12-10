@@ -30,7 +30,7 @@ def news_index():
 
     # 查询首页分类数据
     try:
-        categorys = Category.query.all()
+        categorys = Category.query.limit(6).all()
     except Exception as e:
         current_app.logger.error(e)
         return jsonify(error=Code.DBERR, errormsg="获取新闻分类失败！")
@@ -47,7 +47,6 @@ def news_index():
     # print(data)
     return render_template("news/index.html", data=data)
 
-
 # 首页新闻列表数据
 #请求路劲/newslist
 @index_blue.route("/newslist",methods=["GET"])
@@ -63,13 +62,13 @@ def newslist():
         page = 1
         per_page = 10
     
-    # 通过分类ID进行分页查询
+    # 通过分类ID和是否审核进行分页查询
     try:
 
         filters = []
         if cid != "1":
             filters.append(News.category_id == cid)
-        paginate = News.query.filter(*filters).order_by(News.create_time.desc()).paginate(page, per_page, False)
+        paginate = News.query.filter(*filters,News.status==0).order_by(News.create_time.desc()).paginate(page, per_page, False)
 
     except Exception as e:
         current_app.logger.error(e)

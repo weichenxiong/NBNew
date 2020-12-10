@@ -58,7 +58,7 @@ def base_info():
 @check_login
 def pic_info():
     if request.method == "GET":
-        # 2. 携带用户的数据,渲染页面
+        # 携带用户的数据,渲染页面
         print(g.user.to_dict())
         return render_template("news/user_pic_info.html",user_info=g.user.to_dict())
     
